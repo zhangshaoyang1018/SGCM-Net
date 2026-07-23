@@ -1,0 +1,1 @@
+Take this folder as an example. All classification graphs generated after later training will be saved here. Please do not delete folders corresponding to each dataset.
